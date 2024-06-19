@@ -1,6 +1,5 @@
 import React, { useContext } from 'react'
 import './Navbar.css'
-import logo1 from '../../assets/logo1.png'
 import arrow_icon from '../../assets/arrow_icon.png'
 import { CoinContext } from '../../context/CoinContext'
 import { Link } from 'react-router-dom'
